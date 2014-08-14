@@ -11,5 +11,7 @@ To run, download the entire src folder and run Aliasing.cmd
 
 Example:
 Thickness of each circle in pixels: 2
+
 Difference between sucessive radii in pixels: 4
+
 Number to subsample by: 4
