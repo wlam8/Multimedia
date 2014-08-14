@@ -9,7 +9,10 @@ In the main menu, only 1. Aliasing works because I no longer have the sample fil
 
 To run, download the entire src folder and run Aliasing.cmd 
 
+
+
 Example:
+
 Thickness of each circle in pixels: 2
 
 Difference between sucessive radii in pixels: 4
